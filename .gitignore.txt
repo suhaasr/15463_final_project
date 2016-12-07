@@ -1,5 +1,0 @@
-savedOutputs
-outputs
-savedOutputs/*
-outputs/*
-~$*
